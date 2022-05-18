@@ -2,7 +2,7 @@ All the data used for Linear Regression is at: LinearRegression/data
 All the results reported are in: LinearRegression/results
 
 To run the model:
-cd LinearRegression
+cd LinearRegression  
 gcc LinearRegression.cpp -lstdc++ -I ../include -w
 ./a.out
 
