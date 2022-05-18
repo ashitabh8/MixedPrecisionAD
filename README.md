@@ -4,14 +4,18 @@ All the data used for Linear Regression is at: LinearRegression/data
 All the results reported are in: LinearRegression/results
 
 To run the model:  
+```
 cd LinearRegression  
 gcc LinearRegression.cpp -lstdc++ -I ../include -w  
 ./a.out    
+```
 
 To run the root solver:  
+```
 cd NewtonRaphsonMethod  
 gcc NewtonRaphson.cpp -I ../include -lstdc++ -w  
 ./a.out   
+```
 
 
 Known Issues:  
