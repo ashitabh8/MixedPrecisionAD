@@ -22,5 +22,5 @@ so it can be safely ignored for the purposes of the results.
 
 ## Credits
 
-For Fixed Point Support: https://github.com/MikeLankamp/fpm
+For Fixed Point Support: https://github.com/MikeLankamp/fpm  
 For Half-Floating Point Support: http://half.sourceforge.net/
