@@ -1,0 +1,21 @@
+Result file name: LinearRegression/results/Boston_float_fp_16_16.txt
+Description: Consists of experiemnts for threshold 2, and max iters 1000 used float and fp 16.16
+Boston dataset trained on all datapoints.
+
+LinearRegression/results/Boston_float_fp_16_16.txt
+Ran on Boston normalised set. with 50-50 probability and batchsize of 1.
+
+
+LinearRegression/results/Boston_fp24_8_fp_16_16_EXP1.txt
+Boston 50-50 Q24.8 and Q16.16 batchsize = 4, and minibatch size = 32.
+
+
+LinearRegression/results/Boston_fp24_fp24_EXP2.txt
+Boston 50-50 Q24.8 and Q24.8 batchsize = 4 , and minibatch same
+
+LinearRegression/results/Boston_fp_16_fp_16_EXP3.txt
+Boston 50-50 Q16.16 Q16.16 batchsize = 4 , and minibatch same
+
+
+
+
