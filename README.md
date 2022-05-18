@@ -1,4 +1,4 @@
-###Mixed Precision
+### Mixed Precision Automatic Differentiation
 
 All the data used for Linear Regression is at: LinearRegression/data
 All the results reported are in: LinearRegression/results
